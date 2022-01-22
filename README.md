@@ -9,7 +9,7 @@
 ##
   
 <h3 align="center">• Skills •</h3>
-<p align="center">Ordem de estudo</p>
+<p align="center">Ordem de conhecimento</p>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-C" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Pablo-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
