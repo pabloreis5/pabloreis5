@@ -15,7 +15,7 @@
   <img align="center" alt="Pablo-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Pablo-HTML" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pablo-CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pablo-Android" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
+  <img align="center" alt="Pablo-Android" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">
 </div>
   
 ##
