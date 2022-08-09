@@ -1,4 +1,15 @@
-<h1 align="center">Seja Bem-Vindo!</h1>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=8C00FF&center=true&vCenter=true&width=950&lines=Welcome!;My+name+is+Pablo+Batista.;I+study+Information+Systems+at+UFOP." alt="Typing SVG" /></a>
+</div>
+
+##
+
+<div align="center" style="display: flex">
+  <img src="https://github-profile-trophy.vercel.app/?username=pabloreis5&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</div>
+
+
+##
 
 <div align="center">
   <a href="https://github.com/pabloreis5">
