@@ -1,5 +1,8 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=40&pause=1000&color=00CA6AFF&center=true&vCenter=true&width=1000&lines=Welcome+:);My+name+is+Pablo+Batista.;I+study+Information+Systems+at+UFOP." alt="Typing SVG" /></a>
+<p>.</p>
+<p>.</p>
+<p>.</p>
 <img align="center" alt="cod" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 </div>
 
