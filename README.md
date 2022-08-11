@@ -9,7 +9,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/pablobatistareis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablobatistareis" height="40" width="50" /></a><a href="malito:pabloreis2001@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="pablobatistareis" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/pablobatistareis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablobatistareis" height="40" width="50" /></a><a href="mailto:pabloreis2001@gmail.com?Body=Ol%E1%2C%20Pablo%21%20Vim%20pelo%20GitHub" target="blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="pablobatistareis" height="40" width="40" /></a>
 <a href="https://instagram.com/pabloreis5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pabloreis5" height="40" width="50" /></a><a href="https://github.com/pabloreis5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="pabloreis5" height="40" width="50" /></a>
 </p>
 
