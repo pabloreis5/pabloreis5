@@ -12,7 +12,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/pablobatistareis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablobatistareis" height="40" width="50" /></a><a href="mailto:pabloreis2001@gmail.com?Body=Ol%E1%2C%20Pablo%21%20Vim%20pelo%20GitHub" target="blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="pablobatistareis" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/pablobatreis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablobatistareis" height="40" width="50" /></a><a href="mailto:pabloreis2001@gmail.com?Body=Ol%E1%2C%20Pablo%21%20Vim%20pelo%20GitHub" target="blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="pablobatistareis" height="40" width="40" /></a>
 <a href="https://instagram.com/pabloreis5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pabloreis5" height="40" width="50" /></a><a href="https://github.com/pabloreis5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="pabloreis5" height="40" width="50" /></a>
 </p>
 
@@ -29,6 +29,8 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="android" width="50" height="50"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  
 </p>
 
 ##
